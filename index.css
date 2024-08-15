@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+* {
+    background-color: rgb(137, 137, 137);
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', 'Times New Roman', Times, serif, sans-serif;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: black;
+    width: 95.7%;
+    padding: 30px;
+}
+
+.navbar {
+    display: inline-block;
+    background-color: black;
+    margin-left: 20px;
+}
+h2{
+    background-color: black;
+}
+
+.navbar2 {
+    display: inline-block;
+    background-color: black;
+    text-decoration: none;
+    margin-left: 63%;
+}
+
+a:active {
+    color: gray;
+}
+
+a:visited {
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+    background-color: black;
+}
+
+input {
+    border-style: solid;
+    height: 40px;
+    width: 50%;
+    margin-top: 60px;
+    margin-left: 25%;
+    background-color: white;
+    padding: 5px;
+}
+
+button {
+    width: 70px;
+    height: 50px;
+    padding: 5px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.intro h1 {
+    color: black;
+}
+
+.intro {
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 800;
+    color: rgb(53, 52, 51);
+}
+
+.intro p {
+    padding: 15px;
+}
+
+.imgbox {
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.imgbox p {
+    text-align: center;
+    font-weight: 700;
+}
+
+.imgbox a {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.imgbox a:visited {
+    color: black;
+}
+
+.catlog {
+    margin-left: 145px;
+}
+
+img:hover {
+    border-color: black;
+    background-color: black;
+    color: lightgray;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+}
+
+.tip {
+    font-weight: 900;
+    padding: 20px 0px 15px 0px;
+    margin-left: 30%;
+}
+
+.outro h2 {
+    padding: 20px;
+}
+
+.outro h3 {
+    margin-left: 38px;
+    font-size: 23px;
+}
+
+.outro p {
+    margin: 20px;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 800;
+    color: rgb(53, 52, 51);
+}
+
+.foot p{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-weight: 900;
+}
+
+/* .foot {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: 900;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+} */
