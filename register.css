@@ -181,6 +181,10 @@ button:hover{
         color: black;
     }
 
+    .foot p{
+        text-decoration: none;
+    }
+
     .foot {
         background-color: black;
         color: white;
