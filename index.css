@@ -187,12 +187,16 @@ img {
     .intro p {
         font-size: 12px;
         margin-bottom: -20px;
+        width: 350px;
+        margin-left: -20px;
     }
 
 
     .catlog {
+
         display: flex;
         flex-direction: column;
+
     }
 
     .list {
@@ -233,10 +237,13 @@ img {
 
     .outro h3 {
         font-size: 15px;
+        margin-left: 40px;
     }
 
     .outro p {
         font-size: 12px;
+        width: 350px;
+        margin-left: 20px;
     }
 
     .foot p {
