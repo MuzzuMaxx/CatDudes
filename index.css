@@ -154,6 +154,10 @@ img {
 
 
 @media screen and (max-width:428px) {
+    nav {
+        width: 84%;
+    }
+
     .navbar {
         font-size: 25px;
     }
@@ -217,7 +221,7 @@ img {
         margin-left: 50px;
     }
 
-    .outro{
+    .outro {
         padding-bottom: 20px;
     }
 
@@ -227,15 +231,15 @@ img {
         margin-bottom: 15px;
     }
 
-    .outro h3{
+    .outro h3 {
         font-size: 15px;
     }
 
-    .outro p{
+    .outro p {
         font-size: 12px;
     }
 
-    .foot p{
+    .foot p {
         font-size: 12px;
         margin-bottom: 0px;
     }
